@@ -4,5 +4,6 @@ public class demo01 {
         System.out.println("我是编号洞拐洞拐");
         System.out.println("更新了吗");
         System.out.println("更新了");
+        System.out.println("收到请回答");
     }
 }
